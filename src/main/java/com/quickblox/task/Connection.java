@@ -9,6 +9,4 @@ public interface Connection {
 
     void writeResponse(Response response) throws Exception;
 
-
-
 }

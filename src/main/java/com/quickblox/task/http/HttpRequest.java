@@ -1,7 +1,6 @@
 package com.quickblox.task.http;
 
 import com.quickblox.task.Request;
-
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
